@@ -1,4 +1,4 @@
-# juegoPaleta
+# Super Frogger
 Juego de la ranita realizado como TP Final para Paradigmas de Programacion por:
 Charly Faluotico y Natalia Casanovas
 
